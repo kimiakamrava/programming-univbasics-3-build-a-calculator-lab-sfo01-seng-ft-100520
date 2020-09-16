@@ -21,6 +21,7 @@ end
 
 def modulo(num1, num2)
 modulus = (num1 % num2)
+p modulus
 end
 
 def square_root(num)
