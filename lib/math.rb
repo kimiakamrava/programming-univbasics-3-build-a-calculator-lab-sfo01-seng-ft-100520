@@ -20,7 +20,7 @@ p multiply
 end
 
 def modulo(num1, num2)
-
+modul
 end
 
 def square_root(num)
