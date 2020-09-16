@@ -25,5 +25,5 @@ p modulus
 end
 
 def square_root(num)
-
+square = 
 end
