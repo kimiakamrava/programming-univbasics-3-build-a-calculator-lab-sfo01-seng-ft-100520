@@ -5,7 +5,8 @@ end
  
 
 def subtraction(num1, num2)
-
+subtract = (num1 - num2)
+p subtract
 end
 
 def division(num1, num2)
