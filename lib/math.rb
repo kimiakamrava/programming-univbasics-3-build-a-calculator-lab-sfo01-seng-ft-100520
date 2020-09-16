@@ -11,6 +11,7 @@ end
 
 def division(num1, num2)
 divide = (num1 / num2 )
+p divide
 end
 
 def multiplication(num1, num2)
