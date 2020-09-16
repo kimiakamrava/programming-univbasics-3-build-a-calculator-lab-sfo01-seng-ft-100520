@@ -1,8 +1,8 @@
 def addition(num1, num2)
-puts sum = 'num1 + num2'
-return sum
+sum = (num1 + num2)
+p sum 
 end
- addition
+ 
 
 def subtraction(num1, num2)
 
